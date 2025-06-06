@@ -174,8 +174,3 @@ Quando qualquer dispositivo volta a ter acesso à internet:
 Curso: Engenharia de Software – 3º Ano  
 Disciplina: Sistemas Inteligentes / Visão Computacional
 
----
-
-## 📄 Licença
-
-Projeto acadêmico — uso educacional.
